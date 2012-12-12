@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="matt.DynamicTextureAtlasGenerator.DynamicAtlas"/>
+    <classEntry path="matt.DynamicTextureAtlasGenerator.TextureItem"/>
+    <classEntry path="matt.adobe.images.BitString"/>
+    <classEntry path="matt.adobe.images.JPGEncoder"/>
+    <classEntry path="matt.adobe.images.PNGEncoder"/>
+    <classEntry path="matt.array.RandomizeArray"/>
+    <classEntry path="matt.assets.Anims"/>
+    <classEntry path="matt.assets.R"/>
+    <classEntry path="matt.assets.S"/>
+    <classEntry path="matt.assets.VectorForStarling"/>
+    <classEntry path="matt.debug.Console"/>
+    <classEntry path="matt.display.BitmapLoader"/>
+    <classEntry path="matt.display.BitmapSnapshot"/>
+    <classEntry path="matt.display.ImageLoader"/>
+    <classEntry path="matt.display.NativeToStarlingTextField"/>
+    <classEntry path="matt.events.BitmapLoaderEvent"/>
+    <classEntry path="matt.events.GameEvent"/>
+    <classEntry path="matt.number.Random"/>
+    <classEntry path="matt.number.Rotation"/>
+    <classEntry path="matt.text.Filename"/>
+    <classEntry path="matt.text.NativeText"/>
+    <classEntry path="matt.ui.components.Button"/>
+    <classEntry path="matt.vector.RandomizeVector"/>
+    <classEntry path="matt.number.Point_"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
