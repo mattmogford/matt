@@ -25,6 +25,7 @@
     <classEntry path="matt.ui.components.Button"/>
     <classEntry path="matt.vector.RandomizeVector"/>
     <classEntry path="matt.number.Point_"/>
+    <classEntry path="matt.common.Singleton"/>
   </includeClasses>
   <includeResources/>
   <namespaceManifests/>
